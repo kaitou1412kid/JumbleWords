@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Game_Development" Database="" Version="10000">
+  <Project Name="Jumble_game" Path="Jumble_game/Jumble_game.project" Active="No"/>
+  <Project Name="Jumble_game_2" Path="Jumble_game_2/Jumble_game_2.project" Active="No"/>
+  <Project Name="Jumble_game_3" Path="Jumble_game_3/Jumble_game_3.project" Active="No"/>
+  <Project Name="Jumble_game_4" Path="Jumble_game_4/Jumble_game_4.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Jumble_game" ConfigName="Debug"/>
+      <Project Name="Jumble_game_2" ConfigName="Debug"/>
+      <Project Name="Jumble_game_3" ConfigName="Debug"/>
+      <Project Name="Jumble_game_4" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Jumble_game" ConfigName="Release"/>
+      <Project Name="Jumble_game_2" ConfigName="Release"/>
+      <Project Name="Jumble_game_3" ConfigName="Release"/>
+      <Project Name="Jumble_game_4" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
